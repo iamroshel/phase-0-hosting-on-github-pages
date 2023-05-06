@@ -1,6 +1,6 @@
 # Software Engineering Prep Final Project Setup Part II: Hosting a Website on GitHub Pages
 
-## Learning Goals
+## Learning Goals c
 
 - Understand what it means to host a website
 - Use GitHub to host a website from a Git repository
